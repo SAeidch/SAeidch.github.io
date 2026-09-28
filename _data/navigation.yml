@@ -1,0 +1,28 @@
+# Links in the header of the website, in order. The homepage is a single page,
+# so each item jumps to an anchor in _pages/about.md.
+
+main:
+  - title: "About"
+    url: /#about
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Education"
+    url: /#education
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Honors"
+    url: /#honors
+
+  - title: "Contact"
+    url: /#contact
+
+  # Add a CV PDF to /files/ and uncomment:
+  # - title: "CV"
+  #   url: /files/CV.pdf
